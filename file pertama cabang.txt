@@ -1,0 +1,7 @@
+Rincian Materi Baru
+1. HTML & CSS
+2. Github
+3. Js
+4. PHP
+5. MySQL
+6. Laravel
